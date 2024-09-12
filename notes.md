@@ -1,0 +1,1 @@
+Github is an insanely powerful tool that can be used to help more easily navigate and share code. I won't lie I am still very intimidated by it but I look forward to continuing to learn how to use it.
