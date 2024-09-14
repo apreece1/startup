@@ -8,7 +8,7 @@ Key Features:
 
 - Nightly Motivation: Set your reasons for waking up the night before. To turn off the alarm, you must re-enter these reasons.
 - Customizable Wake-Up Routines: Choose motivational videos, meditations, or music (through linked apps) to greet the day.
-- Goal Tracking: Track small daily goals like morning workouts to stay focused.
+- Goal Tracking: Track small daily goals like morning workouts or eating breakfast to stay focused.
 - Accountability Partners: Join or create groups with friends to share progress and stay motivated.
 - Positive News Feed: Start your day on a high note with uplifting news stories.
 - Healthy Breakfast Ideas: Browse easy and healthy meal options to fuel your day.
