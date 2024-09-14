@@ -1,6 +1,6 @@
-#Startup Deliverable - Specification
+# Startup Deliverable - Specification
 
-##Elevator Pitch:
+## Elevator Pitch:
 
 GET UP: Your personalized wake-up alarm. Set motivational reasons, choose inspiring media, track goals, and connect with friends to stay accountable. An app designed for those that hate waking up.
 
@@ -22,7 +22,7 @@ GET UP: Your personalized wake-up alarm. Set motivational reasons, choose inspir
     - Take a photo of yourself in a specific location within a set time.
     - Share the photo with your group or save it to your stats.
 
-##Technology Usage:
+## Technology Usage:
 
 - HTML: Structure the app's interface with elements for setting alarms, reasons, goals, news feed, etc.
 - CSS: Style the interface to be user-friendly, visually appealing, and responsive across devices.
