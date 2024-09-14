@@ -2,7 +2,7 @@ Startup Deliverable - Specification
 
 Elevator Pitch:
 
-GET UP: Your personalized wake-up companion. Set motivational reasons, choose inspiring media, track goals, and connect with friends to stay accountable. Conquer your day, one morning at a time. An app designed for those that hate waking up.
+GET UP: Your personalized wake-up alarm. Set motivational reasons, choose inspiring media, track goals, and connect with friends to stay accountable. An app designed for those that hate waking up.
 
 Key Features:
 
