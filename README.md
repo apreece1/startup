@@ -37,3 +37,4 @@ Technology Usage:
 - WebSocket Data (Optional): Implement a real-time feature for group members to receive notifications when others wake up.
 
 By incorporating the morning photo challenge as an immediate prompt after turning off the alarm, you've enhanced the app's ability to encourage users to get up and moving and share their progress with their group.
+![Untitled_Artwork](https://github.com/user-attachments/assets/8451ae28-e1b4-4c3a-a921-44424e6c624a)
