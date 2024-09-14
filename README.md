@@ -1,10 +1,10 @@
-Startup Deliverable - Specification
+#Startup Deliverable - Specification
 
-Elevator Pitch:
+##Elevator Pitch:
 
 GET UP: Your personalized wake-up alarm. Set motivational reasons, choose inspiring media, track goals, and connect with friends to stay accountable. An app designed for those that hate waking up.
 
-Key Features:
+**Key Features**:
 
 - Nightly Motivation: Set your reasons for waking up the night before. To turn off the alarm, you must re-enter these reasons.
 - Customizable Wake-Up Routines: Choose motivational videos, meditations, or music (through linked apps) to greet the day.
@@ -22,7 +22,7 @@ Key Features:
     - Take a photo of yourself in a specific location within a set time.
     - Share the photo with your group or save it to your stats.
 
-Technology Usage:
+##Technology Usage:
 
 - HTML: Structure the app's interface with elements for setting alarms, reasons, goals, news feed, etc.
 - CSS: Style the interface to be user-friendly, visually appealing, and responsive across devices.
@@ -37,4 +37,6 @@ Technology Usage:
 - WebSocket Data (Optional): Implement a real-time feature for group members to receive notifications when others wake up.
 
 By incorporating the morning photo challenge as an immediate prompt after turning off the alarm, you've enhanced the app's ability to encourage users to get up and moving and share their progress with their group.
+
+**Sketch**
 ![Untitled_Artwork](https://github.com/user-attachments/assets/8451ae28-e1b4-4c3a-a921-44424e6c624a)
