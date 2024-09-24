@@ -3,6 +3,6 @@ Github is an insanely powerful tool that can be used to help more easily navigat
 
 
 HTML is a very visual code, things that were helpful include the setup for adding hyperlinks:
-//<a href="https://www.example.com">Click here to visit Example.com</a>//
-images: //<img src="image.jpg" alt="Alternative text">//
+#<a href="https://www.example.com">Click here to visit Example.com</a>
+images: #<img src="image.jpg" alt="Alternative text">
 and that in order to create sections you must include the command at the beggining and then a backslashed version of the command at the end. 
